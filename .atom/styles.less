@@ -1,0 +1,27 @@
+@font-size:18px;
+
+body{
+  font-size:@font-size;
+}
+atom-text-editor{
+  font-size: @font-size;
+}
+
+.tree-view{
+  @title-color: #4cc;
+  @tree-normal-size:16px;
+  
+  font-size: @tree-normal-size; 
+
+  .project-root > div > span {
+    color: @title-color;
+    font-size:@font-size;
+    font-weight: bold;
+  }
+
+  .project-root > ::before {
+    color: @title-color;
+  }
+}
+
+
