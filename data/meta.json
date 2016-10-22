@@ -1,0 +1,86 @@
+{
+  "__config":{
+    "root":"./data",
+    "compression":true,
+    "keepraw":true,
+    "conflict":"keepboth"
+  },
+  ".vimrc@1":{},
+  ".vimrc@2":{},
+  ".atom":{
+    "type":"directory",
+    "hash":"33eddfui",
+    "date":"2016-05-11 11:29:00",
+    "from":"/home/murry.diao/.atom",
+    "at":"./data/.atom",
+    "files":{
+      "styles.less" :{
+        "type":"file",
+        "hash":"3eerdddf",
+        "date":"2016-0511 14:20:00",
+        "from":"/home/murry.diao/.atom/styles.less",
+        "at":"./data/.atom/styles.less",
+        "files":{}
+      }
+    }
+  },
+  "bash":{
+    "type":"directory",
+    "hash":"778yyiop",
+    "date":"2016-05-11 11:29:00",
+    "from":"",
+    "at":"./data/bash",
+    "files":{
+      ".bash_profile":{
+        "type":"file",
+        "hash":"uiuihnjk",
+        "date":"2016-05-11 13:40:00",
+        "from":"/home/murry.diao/.bash_profile",
+        "at":"./date/bash/.bash_profile",
+        "files":{}
+      },
+      ".bashrc":{
+        "type":"file",
+        "hash":"uukjdfdf",
+        "date":"2016-05-11 15:32:00",
+        "from":"/home/murry.diao/.bashrc",
+        "at":"./date/bash/.bashrc",
+        "files":{}
+      }
+    }
+  },
+  ".vim":{
+    "type":"directory",
+    "hash":"990764ar",
+    "date":"2016-05-11 11:40:00",
+    "from":"/home/murry.diao/.vim",
+    "at":"./date/.vim",
+    "files":{
+      "colors":{
+        "type":"directory",
+        "hash":"990964ar",
+        "date":"2016-05-11 11:40:00",
+        "from":"/home/murry.diao/.vim/colors",
+        "at":"./date/.vim/colors",
+        "files":{
+          "badwolf.vim":{
+            "type":"file",
+            "hash":"992964ar",
+            "date":"2016-05-11 11:40:00",
+            "from":"/home/murry.diao/.vim/colors/badwolf.vim",
+            "at":"./date/.vim/colors/badwolf.vim",
+            "files":{}
+          },
+          "goodwolf.vim":{
+            "type":"file",
+            "hash":"932964ar",
+            "date":"2016-05-11 11:40:00",
+            "from":"/home/murry.diao/.vim/colors/goodwolf.vim",
+            "at":"./date/.vim/colors/goodwolf.vim",
+            "files":{}
+          }
+        }
+      },
+    }
+  }
+}

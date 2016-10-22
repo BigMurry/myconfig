@@ -1,0 +1,18 @@
+"*":
+  core:
+    customFileTypes:
+      "text.html.basic": [
+        "nj"
+        "nunjucks"
+        "njtpl"
+      ]
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "85c03bc2-de28-75a0-87de-35c0bde12b77"
+  linter:
+    errorPanelHeight: 40
+  "tree-view": {}
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false
